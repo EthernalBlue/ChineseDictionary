@@ -1,2 +1,2 @@
 # ChineseDictionary
-Simple Chinese ( Traditional / Simplified )
+Simple Chinese ( Traditional / Simplified ) databases.
